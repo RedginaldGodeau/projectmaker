@@ -17,7 +17,7 @@ Project Maker is a Python 3 script designed to streamline the creation of projec
 - Generates a README file containing project information extracted from the HTML description.
 
 ## Example
-Suppose you have an HTML file named `holberton_project.html` containing the project description. To generate the project folder, task files, and README, run:
+Suppose you have an HTML file named `holberton_project.html` containing the project description. To generate the project folder, task files, and README, run: ```./projectmaker.py holberton_project.html```
 
 ## Author
 Redginald Godeau
